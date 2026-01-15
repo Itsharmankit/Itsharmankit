@@ -26,8 +26,8 @@
 - 📸 Love **photography** and creative storytelling
 - 🌱 Always **learning new technologies**
 - 🔭 Currently working on **innovative web projects**
-- 💬 Ask me about **React, Node.js, and Design**
 - ⚡ Fun fact: **Code is poetry in disguise**
+- 💬 Ask me about **Design**
 
 </div>
 
